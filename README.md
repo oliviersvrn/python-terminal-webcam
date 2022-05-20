@@ -1,7 +1,5 @@
 # python-terminal-webcam
 
-Works better in full screen
+(This is a joke project, do not use this seriously)
 
-Only tested on MacOS
-
-(Very slow but who doesn't want a webcam that works on the terminal ?)
+This program displays your webcam directly on your terminal. It is not optimized ***at all*** and has only been tested on MacOS
